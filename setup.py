@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='test_library',
-    version='0.0.3',
+    version='0.0.4',
     description='Podstawowa biblioteka testowa do nadpisania akcji Selenium w celu oddzielenia logiki biznesowej testu od technicznej',
     # long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
