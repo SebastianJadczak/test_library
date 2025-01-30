@@ -12,7 +12,8 @@ setup(
     packages=find_packages(),
     install_requires=[
         'selenium==4.28.1',
-        'dacite==1.8.1'
+        'dacite==1.8.1',
+        'setuptools==75.8.0'
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
